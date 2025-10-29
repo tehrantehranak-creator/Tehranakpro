@@ -1,0 +1,7 @@
+{
+  "name": "TEHRANAK Real Estate CRM",
+  "description": "A comprehensive, offline-first Progressive Web App (PWA) for real estate agents to manage listings, clients, and tasks, featuring an AI assistant, advanced reporting, and a unique, modern user interface. All data is stored locally in the user's browser.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

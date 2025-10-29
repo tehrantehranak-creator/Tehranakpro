@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.tehranak.crm",
+  "appName": "TEHRANAK CRM",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

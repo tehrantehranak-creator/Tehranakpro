@@ -1,0 +1,16 @@
+{
+  "name": "Tehranak CRM",
+  "short_name": "Tehranak",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "سامانه هوشمند مدیریت املاک و مشتریان تهرانک",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
